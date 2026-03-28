@@ -18,8 +18,10 @@ Complex, multi-step problems mein wo galtiyan karta hai.
 ************************MAIN PART
 Is liye agents ko sirf LLM pe depend nahi karna chahiye. Agents mein extra tools, architecture, memory systems, planning modules, aur orchestration lagti hai taake ye 3 constraints ko handle kiya ja sake.
 3. Five Powers of Autonomous Agents
-Five Powers wo 5 special capabilities hain jo autonomous agents ko powerful banati hain.
+wo complex, multi-step tasks bina constant human supervision ke complete kar sake. Five Powers wo 5 special capabilities hain jo autonomous agents ko powerful banati hain.
 By this agent simple chatbot se upar uth kar real-world tasks independently handle kar sakta hai.
 Planning Power -> Break long task into chunks 
 Tool Use Power -> gent bahar ke tools (jaise calculator, web search, code executor, APIs) ko use krskta when need.
 Memory Power -> Agent short-term aur long-term memory rakhta hai taake purani information bhool na jaye aur better decisions le sake.
+Reflection Power-> Khud k task reveiew , analyze mistakes than correct them.
+Collaboration Power-> work with another agents  , divide task , work through team.
