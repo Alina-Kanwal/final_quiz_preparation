@@ -222,9 +222,15 @@ Samajh aa gaya? Koi power phir se detail mein chahiye to batao.Explain it jitna 
 AI system banane ka 3-layer model:
 1. Bottom Layer (Foundation Layer)
 Core LLM + Infrastructure
-Yahan asal powerful language model (GPT jaise LLM) aur uske neeche ki hardware/software infrastructure hoti hai (computing power, servers, etc.).
+Y basic layer y, Ye foundation hai jiske upar baaki sab build hota hai., Yahan asal powerful language model (GPT jaise LLM) aur uske neeche ki hardware/software infrastructure hoti hai (computing power, servers, etc.).
 Ye layer raw intelligence provide karti hai.
 2. Middle Layer (Agent Layer)
+Isme tools (web search, code execution, APIs etc.), memory systems aur basic agent capabilities add kiye jate hain. Ye layer LLM ko simple chatbot se upar utha kar asli “agent” banati hai.
+3. Top Layer (Orchestration Layer)
+Orchestration + User Intent Handling
+Is mein multiple agent ko orcstrate kiya jata hy.. User apna natural language intent (maqsad) batata hai, aur ye layer us intent ko samajh kar pura workflow manage karti hai.
+Ye 3-layer stack isliye zaroori hai kyunke sirf LLM (bottom) se kaam nahi chalta. Middle layer tools aur capabilities add karti hai, aur Top layer user intent ko directly handle karke pura system intelligent aur autonomous banati hai. Is structured stack ke bina scalable aur reliable Agent Factory nahi bana sakte.
+ 
 
 
 
