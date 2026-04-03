@@ -230,9 +230,9 @@ Isme tools (web search, code execution, APIs etc.), memory systems aur basic age
 Orchestration + User Intent Handling
 Is mein multiple agent ko orcstrate kiya jata hy.. User apna natural language intent (maqsad) batata hai, aur ye layer us intent ko samajh kar pura workflow manage karti hai.
 Ye 3-layer stack isliye zaroori hai kyunke sirf LLM (bottom) se kaam nahi chalta. Middle layer tools aur capabilities add karti hai, aur Top layer user intent ko directly handle karke pura system intelligent aur autonomous banati hai. Is structured stack ke bina scalable aur reliable Agent Factory nahi bana sakte.
- 
-
-
+5. User Intent Replacing User Interface
+User Intent Replacing User Interface ka matlab hai ke UI bohot kam important ho jayegi.
+Aapko buttons aur menus seekhne ki zaroorat nahi padegi. Aap sirf batao kya chahiye, agent khud kaise karna hai woh decide karega aur execute karega.
 
 
 
