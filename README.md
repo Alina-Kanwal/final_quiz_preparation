@@ -233,6 +233,9 @@ Ye 3-layer stack isliye zaroori hai kyunke sirf LLM (bottom) se kaam nahi chalta
 5. User Intent Replacing User Interface
 User Intent Replacing User Interface ka matlab hai ke UI bohot kam important ho jayegi.
 Aapko buttons aur menus seekhne ki zaroorat nahi padegi. Aap sirf batao kya chahiye, agent khud kaise karna hai woh decide karega aur execute karega.
+6. AIFF = AI Factory Foundation standards (ya similar).
+Ye standards Digital FTEs (AI workers jo full-time employee ki tarah kaam karte hain) ko consistent, reliable aur enterprise-ready banane ke liye banaye gaye hain. In standards ki wajah se agents ko scale karna aur manage karna asaan hota hai.
+
 
 
 
