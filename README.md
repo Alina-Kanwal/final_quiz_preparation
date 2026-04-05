@@ -1,6 +1,6 @@
 # final_quiz_preparation
 ###############Chapter 12
-Dveloper ab coder se orchestrator ban raha hai (matlab aap khud code likhne ki bajaye AI agents ko direct karoge). jo ky $3 trillion developer economy ko affect kar raha hai.
+Developer economy $3 Trillion ki hai., Dveloper ab coder se orchestrator ban raha hai (matlab aap khud code likhne ki bajaye AI agents ko direct karoge). 
 1. Agent Maturity Model
 * Agents maturity level are 5 . Low level par agent simple jbky high level par agent high task krta hy.
 2. Core LLM Constraints
@@ -42,6 +42,8 @@ User Intent Replacing User Interface ka matlab hai ke UI bohot kam important ho 
 Aapko buttons aur menus seekhne ki zaroorat nahi padegi. Aap sirf batao kya chahiye, agent khud kaise karna hai woh decide karega aur execute karega.
 6. AIFF = AI Factory Foundation standards (ya similar).
 Ye standards Digital FTEs (AI workers jo full-time employee ki tarah kaam karte hain) ko consistent, reliable aur enterprise-ready banane ke liye banaye gaye hain. In standards ki wajah se agents ko scale karna aur manage karna asaan hota hai.
+AIFF standards is liye zaroori hain kyunke ye agents ko consistent, reliable aur enterprise-ready banate hain. Bina standards ke agents unpredictable aur hard-to-manage hote hain.
+AIFF standards Digital FTEs ko reliable aur scalable banane ke liye zaroori hain.
 
 
 
