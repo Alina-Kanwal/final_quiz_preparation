@@ -57,6 +57,8 @@ AI-Driven Development = Developer Orchestrator And AI is coder
 1. AI CLI & Coding Agents = Like claude code to work for project perfectly.
 2. Markdown as Programming Language 
 Markdown ab naya programming language ban gaya hai — jisme aap natural language mein spec likhte ho aur AI usko actual code mein convert karta hai.
+...
+
 
 
 
