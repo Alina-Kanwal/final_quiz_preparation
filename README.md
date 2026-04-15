@@ -44,6 +44,21 @@ Aapko buttons aur menus seekhne ki zaroorat nahi padegi. Aap sirf batao kya chah
 Ye standards Digital FTEs (AI workers jo full-time employee ki tarah kaam karte hain) ko consistent, reliable aur enterprise-ready banane ke liye banaye gaye hain. In standards ki wajah se agents ko scale karna aur manage karna asaan hota hai.
 AIFF standards is liye zaroori hain kyunke ye agents ko consistent, reliable aur enterprise-ready banate hain. Bina standards ke agents unpredictable aur hard-to-manage hote hain.
 AIFF standards Digital FTEs ko reliable aur scalable banane ke liye zaroori hain.
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Lesson 8: Domain Expertise as Moat + Digital FTE Business Model
+Apni Domain expertise ko strong bnaoo Kyu ky isko copy easily ni krskta Baki Coding krna wagyra tw wo easily kraskta.
+Domain Expertise = Aapka kesi field mein gehra experience aur practical knowledge.
+Moat = Protection
+Recurring Revenue = Ek baar agent banao, phir har mahine client se payment lo — bina har baar naye project ke.
+Monetize = Digital FTE ko clients ko bech kar ya rent par de kar revenue generate karna.
+
+
+
+
+
+
+
+
 
 
 
