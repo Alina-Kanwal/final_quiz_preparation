@@ -58,6 +58,26 @@ AI-Driven Development = Developer Orchestrator And AI is coder
 2. Markdown as Programming Language 
 Markdown ab naya programming language ban gaya hai — jisme aap natural language mein spec likhte ho aur AI usko actual code mein convert karta hai.
 ...
+1. Agent koi random cheez nahi hota — iska proper structure hota hai. input lyna , processs rna, output dna.
+Agent ek structured system hota hai jo defined components par based hota hai.
+2. Agent akela sab kuch nahi karta — wo tools use karta hai. Tools agent ko real-world actions perform karne mein help karte hain.
+3. Memory system agent ko context maintain karne aur better decisions lene mein help karta hai.
+Short-term → current conversation , Long-term → past data / history
+4. Agent hamesha kisi environment me kaam karta hai. Website, Jaisay App, System / backend.
+Environment wo jagah hai jahan agent observe aur act karta hai. phir system me data save karta hai.
+5. Agents aapas me baat bhi kar sakte hain, 
+Ek agent sab kaam nahi karta, Multiple agents mil ke system chalate hain. Agents information share karke better kaam karte hain.
+6. multiple agents mil ke kaam karte hain.
+Har agent ka apna role hota hai, Sab mil ke ek bada task complete karte hain
+Multi-agent system me multiple specialized agents collaborate karte hain.
+Environment → jahan agent kaam karta hai
+Communication → agents ka aapas me data share karna
+Multi-agent → multiple agents team bana ke kaam
+1.Orchestrator hi decide karta hai:
+konsa agent pehle chalega
+konsa next step karega
+kis agent ko kya task milega
+Kai systems me orchestrator khud ek agent hota hai, Usay “controller agent” bhi keh sakte hain, Kabhi kabhi wo simple system logic / workflow engine bhi hota hai (agent nahi.
 
 
 
