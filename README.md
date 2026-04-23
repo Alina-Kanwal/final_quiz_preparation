@@ -73,11 +73,38 @@ Multi-agent system me multiple specialized agents collaborate karte hain.
 Environment → jahan agent kaam karta hai
 Communication → agents ka aapas me data share karna
 Multi-agent → multiple agents team bana ke kaam
-1.Orchestrator hi decide karta hai:
+7.Orchestrator hi decide karta hai:
 konsa agent pehle chalega
 konsa next step karega
 kis agent ko kya task milega
 Kai systems me orchestrator khud ek agent hota hai, Usay “controller agent” bhi keh sakte hain, Kabhi kabhi wo simple system logic / workflow engine bhi hota hai (agent nahi.
+8. Scalability of Agents
+System ko bada karna without breaking .
+Pehle: 100 users handle ho rahe
+Ab: 1000 users aa gaye
+👉 Agar system:
+hang nahi hota
+error nahi deta
+same speed pe kaam karta
+Scalability means system can grow easily.
+9. System ko chote chote parts (modules) me divide karna
+Modularity makes system flexible and easy to manage.
+Reusability of Agents
+Ek agent ko baar baar use karna
+Tumne ek agent banaya:
+kaam: email likhna
+Ab:
+CRM me bhi use
+website me bhi use
+personal tool me bhi use
+10. AI agents real life me kaha use ho rahe hain:
+Chatbots (customer support)
+Automation systems
+Recommendation systems
+Smart assistants
+📌 Exam line:
+AI agents are used to automate tasks and improve efficiency.
+
 
 
 
