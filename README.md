@@ -104,6 +104,7 @@ Recommendation systems
 Smart assistants
 📌 Exam line:
 AI agents are used to automate tasks and improve efficiency.
+1) b 2)c 3)c 4)c  5)C 6)C 7)B 8)B 9)C 10)B 11)C 12) Pta Ni 13)C 14)B 15)B
 
 
 
