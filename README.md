@@ -102,9 +102,11 @@ Chatbots (customer support)
 Automation systems
 Recommendation systems
 Smart assistants
-📌 Exam line:
-AI agents are used to automate tasks and improve efficiency.
-1) b 2)c 3)c 4)c  5)C 6)C 7)B 8)B 9)C 10)B 11)C 12) Pta Ni 13)C 14)B 15)B
+11. Decentralized system
+Agents direct aapas me communicate karte hain, koi central boss nahi hota, Multi-agent systems me coordination phir bhi zaroori hoti hai, Chahe orchestrator ho ya na ho
+Multi-agent system me orchestration ho sakti hai (central ya decentralized), lekin coordination hamesha zaroori hota hai.
+
+
 
 
 
