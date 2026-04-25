@@ -13,18 +13,18 @@ Model kabhi-kabhi galat jawab ko bhi bohot confident tareeke se deta hai.
 → Agents mein isko control karne ke liye fact-checking tools, retrieval (RAG), aur verification steps lagate hain.
 iii) Lack of True Reasoning aur Long-term Memory
 LLMs ke paas sachi sochne (true reasoning) ki capability nahi hoti — wo sirf pattern matching karta hai.
-Long-term memory nahi hoti (har baar conversation reset hoti hai).
+LLMs by default long-term memory nahi rakhte, lekin conversation reset hona system par depend karta hai (always nahi hota)
 Complex, multi-step problems mein wo galtiyan karta hai.
 ***MAIN PART
 Is liye agents ko sirf LLM pe depend nahi karna chahiye. Agents mein extra tools, architecture, memory systems, planning modules, aur orchestration lagti hai taake ye 3 constraints ko handle kiya ja sake.
 3. Five Powers of Autonomous Agents
-wo complex, multi-step tasks bina constant human supervision ke complete kar sake. Five Powers wo 5 special capabilities hain jo autonomous agents ko powerful banati hain.
+These powers enable agents to complete complex multi-step tasks with minimal human supervision, Five Powers wo 5 special capabilities hain jo autonomous agents ko powerful banati hain.
 By this agent simple chatbot se upar uth kar real-world tasks independently handle kar sakta hai.
 Planning Power -> Break long task into chunks 
 Tool Use Power -> gent bahar ke tools (jaise calculator, web search, code executor, APIs) ko use krskta when need.
 Memory Power -> Agent short-term aur long-term memory rakhta hai taake purani information bhool na jaye aur better decisions le sake.
 Reflection Power-> Khud k task reveiew , analyze mistakes than correct them.
-Collaboration Power-> work with another agents  , divide task , work through team.
+Collaboration Power-> work with other agents  , divide task , work through team.
 4.Three-Layer AI Development Stack
 AI system banane ka 3-layer model:
 1. Bottom Layer (Foundation Layer)
@@ -35,7 +35,7 @@ Ye layer raw intelligence provide karti hai.
 Isme tools (web search, code execution, APIs etc.), memory systems aur basic agent capabilities add kiye jate hain. Ye layer LLM ko simple chatbot se upar utha kar asli “agent” banati hai.
 3. Top Layer (Orchestration Layer)
 Orchestration + User Intent Handling
-Is mein multiple agent ko orcstrate kiya jata hy.. User apna natural language intent (maqsad) batata hai, aur ye layer us intent ko samajh kar pura workflow manage karti hai.
+Is mein multiple agent ko orchestrate kiya jata hy.. User apna natural language intent (maqsad) batata hai, aur ye layer us intent ko samajh kar pura workflow manage karti hai.
 Ye 3-layer stack isliye zaroori hai kyunke sirf LLM (bottom) se kaam nahi chalta. Middle layer tools aur capabilities add karti hai, aur Top layer user intent ko directly handle karke pura system intelligent aur autonomous banati hai. Is structured stack ke bina scalable aur reliable Agent Factory nahi bana sakte.
 5. User Intent Replacing User Interface
 User Intent Replacing User Interface ka matlab hai ke UI bohot kam important ho jayegi.
