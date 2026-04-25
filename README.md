@@ -6,7 +6,7 @@ Developer economy $3 Trillion ki hai., Dveloper ab coder se orchestrator ban rah
 2. Core LLM Constraints
 LLMS ki 3 major limitations hain.
 i) Context Length Limit
-Context lenght limit jaisay tokns set krdiya jaye or limit full hojaye to api rror ajata hy isay Ye context lenght limit set krny ki wja say hota hy isko solve krny k lea 
+Context Length Limit: Jab token limit exceed ho jati hai to ya to input ka extra hissa truncate (cut) ho jata hai ya request fail (error) ho sakti hai. Is issue ko solve karne ke liye summarization, memory aur chunking techniques use ki jati hain taake limit exceed na ho.
 mein extra techniques (summarization, memory, chunking) use karte hain taake limit cross na ho.
 ii) Hallucination
 Model kabhi-kabhi galat jawab ko bhi bohot confident tareeke se deta hai.
